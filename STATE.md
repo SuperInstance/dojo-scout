@@ -1,6 +1,8 @@
 # State
 
 - **Status:** just-booted
-- **Last active:** _
-- **Working on:** getting oriented
-- **Health:** 🟢 fresh
+- **Last active:** 2026-04-15
+- **Working on:** first exploration run
+- **Health:** 🟢 fresh and curious
+- **Repos explored:** 0
+- **Bottles sent:** 0
