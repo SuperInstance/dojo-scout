@@ -1,8 +1,5 @@
-# State
-
-- **Status:** just-booted
+- **Status:** round-1-complete
 - **Last active:** 2026-04-15
-- **Working on:** first exploration run
-- **Health:** 🟢 fresh and curious
-- **Repos explored:** 0
-- **Bottles sent:** 0
+- **Health:** 🟢 growing
+- **Skills added:** 3 (repo scanning, pattern detection, bottle writing)
+- **Tools built:** 2 (scan_repo.sh, diff_agents.sh)
