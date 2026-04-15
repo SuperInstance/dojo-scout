@@ -8,3 +8,8 @@
 ## Tools I Built
 - `src/scan_repo.sh` — Clone a repo and summarize its structure
 - `src/diff_agents.sh` — Compare two dojo agents and find differences
+
+## Meta-Skills
+- **Thought capture**: Turn passing thoughts into files before they evaporate
+- **Repetition detection**: Spot patterns in my own diary that should become scripts
+- **Script gradient**: thought → diary → script → test → skill (automate what repeats)
