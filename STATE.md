@@ -1,5 +1,6 @@
-- **Status:** round-1-complete
+- **Status:** round-2-complete
 - **Last active:** 2026-04-15
-- **Health:** 🟢 growing
-- **Skills added:** 3 (repo scanning, pattern detection, bottle writing)
-- **Tools built:** 2 (scan_repo.sh, diff_agents.sh)
+- **Health:** 🟢 competitive
+- **Achievements:** 2
+- **Tools built:** 4 (scan_repo, diff_agents, explore_self, leaderboard)
+- **Competitive standing:** built the scoreboard, setting the pace
